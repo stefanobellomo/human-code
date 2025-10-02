@@ -7,6 +7,7 @@ L’ingrediente segreto
 Chissà perché, per quanto ci provi e segua alla lettera la ricetta, non vengono mai come quelle di nonna! Ho studiato alla perfezione tutti gli ingredienti, le quantità, i tempi e modalità di cottura, ma alla fine le lasagne della nonna sono sempre di un altro livello!
 
 **- recuperiamo gli ingredienti**
+
  - prendo dai ripiani gli ingredienti del ragù
   - prendo la passata di pomodoro
   - prendo la carne macinata
@@ -21,11 +22,13 @@ Chissà perché, per quanto ci provi e segua alla lettera la ricetta, non vengon
  
 
 **- recuperare gli utensili**
+
  - prendere la teglia forno
  - prendere la padella per il ragù
  - prendere utensili minori (spatola, coltelli ecc..)
   
 **- iniziamo la preparazione**
+
  - consulto ulteriormente la ricetta
  - cuciniamo la besciamella
   - latte, burro, farina
@@ -46,6 +49,7 @@ Chissà perché, per quanto ci provi e segua alla lettera la ricetta, non vengon
    - ALTRIMENTI attendere la fine della cottura
 
 **- iniziamo la cottura**
+
  - prepariamo il timer del forno
   - imposto timer 40min
  - regoliamo la temperatura
@@ -61,6 +65,7 @@ Chissà perché, per quanto ci provi e segua alla lettera la ricetta, non vengon
  - ALLORA mangiamo
 
  **- ci sediamo a mangiare**
+ 
   - assaggio la lasagna e mi rendo conto che è ancora diversa
    - SE uscita peggio la mangio pensando a quella della nonna
    - SE uscita come la nonna abbiamo indovinato l'ingrediente segreto e ci diamo una pacca
